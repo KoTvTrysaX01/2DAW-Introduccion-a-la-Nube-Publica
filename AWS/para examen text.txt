@@ -1,0 +1,121 @@
+Módulo 1 Evaluación de conocimientos
+
+1. Cuales son las ventajas del computo en la nube frente al computo en las instalaciones?
+	1. Se evitan grander compras de capital
+	2. Utilizar capacidad bajo demanda
+	3. Convertirse en una empresa global en minutos
+	4. Aumentar la velocidad y la agilidad
+	5. Todas las opciones anteriores X
+
+2. Cual es el modelo de precios que les permite a los clientes de AWS pagar por los recursos individuales confrome los necesiten?
+    1. Pago por baja
+    2. Pago por uso X
+    3. Pago por compra
+    4. Pago por reserva
+	
+3. Cuales de estas opciones NO es un modelo de computo en la nube?
+	1. Plataforma como servicio
+	2. Infraestructura como servicio
+	3. Administracion de sistemas como servicio X
+	4. Software como servicio
+	
+4. Verdadero o falso? AWS es el propietario y el responsable del mantenimiento del hardware conectado a la red que es necesita para los servicios de aplicaciones y usted utiliza lo que necesite
+	1. Verdadero X
+ 	2. Falso
+	
+5. Cual de estod NO es un beneficio del computo en la nube frente al computo en las instalaciones?
+	1. Aumentar la velocidad y la agilidad
+	2. Pagar por instalar servidores en bastidores por su apilado y por su alimentacion X
+	3. Dejar de lado las suposiciones sobre las necesidades de capacidad de la infraestructura
+	4. Cambiar las inversiones de capitar por gastos variables
+	5. Obtener beneficios de las grandes economias de escala
+	
+6. Cual de estos NO es un modelo de computo en la nube (Dos opciones)
+	1. Varios ciclos de adquisicion X
+	2. Alta disponibilidad
+	3. Alta latencia X
+	4. Recursos temporales y descartables
+	5. Bases de datos con tolerancia a errores
+
+7. Cual de las siguientes opciones es un servicio de computo?
+	1. Amazon VPC
+	2. Amazon S3
+	3. Amazon EC2 X
+	4. Amazon CloudFront
+	5. Amazon Redshift
+	
+8. Verdadero o falso? El computo en la nube ofrece una manera sencilla de acceder a servidores almacenamiento bases de datos y a una amplia gama de servicios de aplicacions a traves de Internet. Usted es propietario del hardware conectado a la red necesario para estos servicios y Amazon Web Services aprovisiona lo que necesita
+	1. Verdadero
+	2. Falso X
+
+9. Las economias de escala son el resultado de ___ 
+	1. tener gran diversidad de proveedores de servicios en la nube
+	2. tener cientos de miles de clientes agrupados en la nube X
+	3. tener cientos de servicios en la nube disponibles en Internet
+	4. tener que realizar grander inversiones en centros de daots y servidores
+
+10. Cuales de estas opciones son formas de acceder a AWS core services (Tres opciones)
+	1. Soporte tecnico
+	2. AWS Marketplace
+	3. Consola de administracion de AWS X
+	4. Interfaz de la linea de comandos de AWS (AWS CLI) X
+	5. Kits de desarrollo de software (SDK) X
+	
+
+Módulo 2 Evaluación de conocimientos
+
+1. Para ciertos servicios como Amazos Elastic Compute Cloud (Amazon EC2) y Amazon Relational Database Service (Amazon RDS) se puede invertir en capacidad reservada. Que opciones se encuentran disponibles para las instancias reservadas? (Tres opciones)
+	1. AURI X
+	2. MURI
+	3. NURI X
+	4. PURI X
+	5. DURI
+
+2. Donde puede acudir un cliente para obtener mas detalles sobre la actividad de facturacion de Amazon Elastic Compute Cloud (Amazon EC2) que tuvo lugar hace 3 meses?
+	1. Panel de Amazon EC2
+	2. Explorador de costos de AWS X
+	3. Panel de AWS Trusted Advisor
+	4. Registros de AWS CloudTrail almacenados en Amazon Simple Storage Service (Amazon S3)
+	
+3. Verdadero o Falso? Para disfrutar de la tasa de descuento asociado a las instancias reservada se debe realizar un pago total anticipado por el plazo del acuerdo
+	1. Verdadero
+	2. Falso X
+
+4. Que enunciado es cierto sobre el modelo de precios en AWS?
+	1. En la mayoria de los casos no hay ningun cargo por gigabyte por transferencia de datos entrantes
+	2. El almacenamiento normalmente se cobra por GB X
+	3. Por lo general el computo se cobra como una tarifa mensual segun el tipo de instancias
+	4. Los cargos salientes son gratuitos hasta un limite por cuenta
+
+5. Cuales son los cuatro planes de soporte que ofrece AWS?
+	1. Basic, Developer, Business, Enterprise X
+	2. Basic, Startup, Business, Enterprise
+	3. Free, Bronce, Plata, Oro
+	4. Todo el soporte es gratuito
+	
+6. Que herramienta de AWS le permite explorar los servicios de AWS y crear una estimacion del costo de los casos practicos en AWS?
+	1. Calculadora de precios de AWS X
+	2. AWS Budgets
+	3. Informe de costo y uso de AWS
+	4. Panel defacturacion de AWS
+	
+7. A medida que AWS crece el costo de la actividad empresarial se reduce y los ahorros vuelven al cliente en forma de precios mas bajas. Como se conose a este tipo de optimizacion?
+	1. Tener conciencia de los gastos
+	2. Economias de escala X
+	3. Concordancia de oferta y demanda
+	4. Tamaño correcto
+	
+8. Veradero o falso? AWS ofrece alginos servicios sin costo como Amazon Virtual Private Cloud, AWS Identity and Access Managment, Consolidated Biling, AWS Elastic Beantalk, escalado automatico, AWS OpsWorls y AWS CloudFormation. Sin embargo es posible que se le cobre por otros servicios de AWS que utilice junto con estos servicios
+	1. Verdadero X
+	2. Falso 
+
+9. Cuales son los beneficios de utilizar AWS organizations? (Dos opciones)
+	1. REemplaza las politicas existentes de AWS Identity and Access Management (IAM) con politicas de control de servicios (SCP) que son mas sencillas de administrar
+	2. Proporciona la capacidad de crear grupos de cuentas y luego adjuntar policitas a un grupos X
+	3. Porporciona la capacidad de crear una cantidad ilimitada de unidades ogranizativas (OU) anidadas para respladar la estrucutra deseada
+	4. Simplifica la automatizacion de la creacion y gestion de cuentas mediante el uso de API X
+	5. Impide que se apliquen restricciones al usuario raiz asociado con la organizacion principal de una cuenta 
+	
+10. Verdadero o falso? Con el nivel gratuito de AWS los clientes nuevos puedent acceder a servicios ilimitados por 12 mese contados a partir de su fecha de registro?
+	1. Verdadero
+	2. Falso X
