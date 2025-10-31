@@ -1,0 +1,52 @@
+1. ¿Qué componente de la infraestructura global de AWS utiliza Amazon CloudFront para garantizar la entrega con baja latencia?
+	-Regiones de AWS
+	X-Ubicaciones de borde de AWS
+	-Zonas de disponibilidad de AWS
+	-Amazon Virtual Private Cloud (Amazon VPC)
+
+2. Puede ejecutar aplicaciones y cargas de trabajo desde una región más cercana a los usuarios finales para ____ la latencia.
+	-aumentar
+	X-reducir
+
+3. ¿Verdadero o falso? Las redes, el almacenamiento, la informática y las bases de datos son ejemplos de las categorías de servicios que ofrece AWS.
+	X-Verdadero
+	-Falso
+
+4. ¿Cuál de estas opciones representa áreas geográficas que alojan dos o más zonas de disponibilidad?
+	-Orígenes de AWS
+	X-Regiones de AWS
+	-Zonas informáticas
+	-Ubicaciones de borde
+
+5. ___ implica que la infraestructura tiene redundancia de componentes integrada, mientras que ___ se refieren a que los recursos se ajustan de forma dinámica a los aumentos o a las disminuciones en los requisitos de capacidad.
+	-Sin intervención humana, tolerancia a errores
+	-Elasticidad y escalabilidad, sin intervención humana
+	X-Tolerancia a errores, elasticidad y escalabilidad
+	-Tolerancia a errores, sin intervención humana
+	-Elasticidad y escalabilidad, tolerancia a errores
+
+6. ¿Verdadero o falso? Las zonas de disponibilidad dentro de una región están conectadas mediante enlaces de baja latencia.
+	X-Verdadero
+	-Falso
+
+7. ¿Cuál de estos enunciados acerca de las zonas de disponibilidad no es cierto?
+	-Las zonas de disponibilidad están diseñadas para el aislamiento de errores
+	-Las zonas de disponibilidad están compuestas por uno o más centros de datos.
+	X-Se puede utilizar un centro de datos para más de una zona de disponibilidad
+	-Las zonas de disponibilidad están conectadas entre sí mediante enlaces privados de alta velocidad.
+
+8. ¿Qué enunciados acerca de las regiones son verdaderos?
+	-Las regiones son las ubicaciones físicas de sus clientes
+	X-Cada región está ubicada en un área geográfica independiente
+	-Todas las regiones están ubicadas en un área geográfica específica
+	X-Una región es una ubicación física con varias zonas de disponibilidad
+
+9. AWS recomienda aprovisionar sus recursos informáticos en ___ zonas de disponibilidad
+	-ninguna
+	-una
+	-todas
+	X-varias
+
+10. ¿Verdadero o falso? Las ubicaciones de borde solo se encuentran en las misma área general que las regiones
+	-Verdadero
+	X-Falso
